@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ghada-Smida
-- 👀 I’m interested in Data science and data analytics
+- 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to share my progress with you all!
 - 📫 How to reach me : mail me on smida.ghadaa@gmail.com or in LinkedIn: /ghada-smida
